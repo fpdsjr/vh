@@ -36,6 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="src\server.ts" />
+    <Content Include="nodemon.json" />
     <Content Include="tsconfig.json" />
     <Content Include="package.json" />
     <Content Include="README.md" />
